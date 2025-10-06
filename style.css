@@ -10,7 +10,7 @@
 body{
   font-family: "Montserrat", Arial, sans-serif;
   background: linear-gradient(180deg, var(--dark-1) 0%, var(--dark-2) 100%);
-  color: #ddd;
+  color: #fff;
   margin:0;
 }
 .navbar{
